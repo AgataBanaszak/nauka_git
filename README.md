@@ -5,3 +5,5 @@ Trzecia zmiana
 Czwarta zmiana
 Piata zmiana
 Szosta zmiana
+Siodma zmiana
+Osma zmiana
