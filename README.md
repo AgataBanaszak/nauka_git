@@ -4,3 +4,4 @@ Druga zmiana README
 Trzecia zmiana
 Czwarta zmiana
 Piata zmiana
+Szosta zmiana
